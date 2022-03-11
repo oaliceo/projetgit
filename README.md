@@ -1,11 +1,7 @@
 # projetgit
 
 premier essai git
-<<<<<<< HEAD
 modification du README.md via vi i
-:(((((((((((((((
+:((((((((((((((( en local
 
-=======
 :))))))))
-
-> > > > > > > refs/remotes/origin/main
