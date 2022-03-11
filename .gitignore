@@ -1,0 +1,4 @@
+logs/*
+!logs/.gitkeep
+
+# ou logs/*.log = ignore tous les fichiers .log (donc pas .gitkeep)
